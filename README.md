@@ -1,7 +1,6 @@
 <div align="center">
 
-  type=waving&color=1565C0&height=180&section=header&text=Anasrul&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
-
+  
 </div>
 
 <br/>
